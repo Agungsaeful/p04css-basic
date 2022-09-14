@@ -1,0 +1,25 @@
+
+.kopsurat {
+    width: 10; 
+    margin: 0;
+    padding: 10px;
+    text-align: center; 
+    line-height :15px;
+}
+
+.judul{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.logo{
+    text-align: left;
+}
+
+.table {
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
